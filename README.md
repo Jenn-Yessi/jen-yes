@@ -1,2 +1,2 @@
 # jen-yes
-este es un proyecto final
+este es el proyecto final completo
